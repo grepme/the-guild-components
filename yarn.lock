@@ -6761,10 +6761,10 @@ graphql-language-service-utils@^2.5.1:
     graphql-language-service-types "^1.8.0"
     nullthrows "^1.0.0"
 
-graphql-language-service@3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/graphql-language-service/-/graphql-language-service-3.1.4.tgz#ca8698f70e9923e3267e3d457228bc55a7dd75f9"
-  integrity sha512-AF98AT4wLxkE9q1gRf20Yn0EPgd5SctRiw1IkGFivPr98pEX0sKqUcIcIHePn2mxqf73jlWUJV5v6l/CB1gdqQ==
+graphql-language-service@3.1.5:
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/graphql-language-service/-/graphql-language-service-3.1.5.tgz#43cec0b541ebbfc9e710a0f0948149e67d5cbc4a"
+  integrity sha512-q6HCfppHwfwsJ11XW2bvgV23hysf30LCQDjnD+LMtYV3fqm/LoJhtW1aSprqJh5toHmQYxjnDNTGafBecOPZgg==
   dependencies:
     graphql-language-service-interface "^2.8.2"
     graphql-language-service-types "^1.8.0"
